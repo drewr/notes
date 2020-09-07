@@ -11,3 +11,6 @@ Get started by reading [[[README]]].
 Other pages on this zettelkasten (this demonstrates how to use tag queries):
 
 [[[z:zettels?tag=other]]]
+
+
+Hi btw!
