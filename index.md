@@ -14,3 +14,5 @@ Other pages on this zettelkasten (this demonstrates how to use tag queries):
 
 
 Hi btw!
+
+[[[About]]]
